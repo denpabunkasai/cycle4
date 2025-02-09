@@ -10,7 +10,7 @@
   <dd>電波文化祭サイクル4</dd>
 
   <dt>イベント概要：</dt>
-	<dd>アマチュア無線本来の多様な取り組みや活動に注目し、一無線家の『研究・成果を発信すること』を大切にしたい。創造された価値を「他者に発信する場」としての役割を担う無線イベント、それが「電波文化祭⚡️」だ。成果を持つ無線家のために、あるべきアマチュア無線のために・・・</dd>
+  <dd>アマチュア無線本来の多様な取り組みや活動に注目し、一無線家の『研究・成果を発信すること』を大切にしたい。創造された価値を「他者に発信する場」としての役割を担う無線イベント、それが「電波文化祭⚡️」だ。成果を持つ無線家のために、あるべきアマチュア無線のために・・・</dd>
 </dl>
 -->
 
@@ -73,7 +73,7 @@
   - 西武池袋線「入間市」駅より徒歩13分なので、電車が楽です。
   - 西武池袋線「池袋」駅 9時20分発の急行 飯能行 → 「入間市」に9時59分着
     - ![アクセスマップ（電車）](https://i.gyazo.com/82fade48514be54c10c852a70f7f7cb7.png)
-    - https://www.iruma-bunka.jp/access/
+    - [https://www.iruma-bunka.jp/access/](https://www.iruma-bunka.jp/access/)
   - [入間市産業文化センター](https://scrapbox.io/denpa/入間市産業文化センター)：埼玉県入間市向陽台1-1-7 （[マップを開く...](https://maps.app.goo.gl/QmWZmCxPXV3Hq7V19)）
     - [入間市駅から徒歩13分](https://scrapbox.io/denpa/入間市駅から徒歩13分)
       - _（施設のページには17分とありますが、入口が異なります）_
@@ -95,9 +95,9 @@
 ---
 
 - 9．電波文化祭コミュニティー
-  - 電波文化祭⚡️への出展者・発表者・同人誌作家・設営運営者・支援者、その他どなたでも「[電波文化祭コミュニティー@Discord](https://scrapbox.io/denpa/電波文化祭コミュニティー@Discord)」にご参加ください。Discord をあらかじめダウンロードし、招待リンク（ https://discord.gg/JAnyWYZJge ）からお入りください。
+  - 電波文化祭⚡️への出展者・発表者・同人誌作家・設営運営者・支援者、その他どなたでも「[電波文化祭コミュニティー@Discord](https://scrapbox.io/denpa/電波文化祭コミュニティー@Discord)」にご参加ください。Discord をあらかじめダウンロードし、招待リンク（ [https://discord.gg/JAnyWYZJge](https://discord.gg/JAnyWYZJge) ）からお入りください。
 
 ---
 
-[電波文化祭⚡️サイクル4](https://scrapbox.io/denpa/電波文化祭⚡️サイクル4) 主催・連絡先：[電波文化祭コミュニティー@狭山丘陵](https://scrapbox.io/denpa/)<br/>
+[電波文化祭⚡️サイクル4](https://scrapbox.io/denpa/電波文化祭⚡️サイクル4) 主催・連絡先：[電波文化祭コミュニティー@狭山丘陵](https://scrapbox.io/denpa/電波文化祭コミュニティー@狭山丘陵)<br/>
 X：[@denpabunkasai](https://x.com/denpabunkasai), Eメール：[denpabunkasai@gmail.com](mailto:denpabunkasai@gmail.com), JN1GGZ：090-3069-3425
