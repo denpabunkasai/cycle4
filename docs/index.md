@@ -78,6 +78,21 @@
     - [入間市駅から徒歩13分](https://scrapbox.io/denpa/入間市駅から徒歩13分)
       - _（施設のページには17分とありますが、入口が異なります）_
     - [Google マップ](https://maps.app.goo.gl/5MehxpH4DtU7c1MU8)
+    - geojson
+
+      ```geojson
+      {
+        "type": "FeatureCollection",
+        "features": [{
+          "type": "Point",
+          "coordinates": [139.396333, 35.836190402177586],
+          "properties": {
+            "name": "入間市産業文化センター"
+          }
+        }]
+      }
+      ```
+
     - 彩の森入間公園の隣り（JCC#1325 JP-1166）
   - 駐車場
     - 施設駐車場：地下に120台（図書館・ホールなどと共用）
