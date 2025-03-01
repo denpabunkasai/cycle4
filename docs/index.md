@@ -34,7 +34,7 @@
 ---
 
 - 1．会場レイアウト
-  - ![会場レイアウト](https://i.gyazo.com/018bfd08fd1bc81757f1d3986999f26a.jpg)
+  - ![会場レイアウト](https://i.gyazo.com/14489ab8671bcc7a47c6d88a010aa7ba.jpg)
   - 「[会場レイアウト（第2集会室）⚡️サイクル4](https://scrapbox.io/denpa/会場レイアウト（第2集会室）⚡️サイクル4)」をご覧ください。
 
 ---
